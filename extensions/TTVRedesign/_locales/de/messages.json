@@ -1,0 +1,122 @@
+﻿{
+	"app_Desc": {
+		"message": "Ausblenden von Streams, Spielen, Kategorien, Kanälen und Tags auf: twitch.tv"
+	},
+
+	"label_Management": {
+		"message": "Sperrliste verwalten"
+	},
+	"label_HideCategory": {
+		"message": "Kategorie ausblenden"
+	},
+	"label_HideChannel": {
+		"message": "Kanal ausblenden"
+	},
+	"label_HideTag": {
+		"message": "Tag ausblenden"
+	},
+	"confirm_HideTag": {
+		"message": "Unwanted Twitch:\nSie sind dabei alle Kategorien und Kanäle\nmit folgendem Tag auszublenden:"
+	},
+	"confirm_HideButtons": {
+		"message": "Unwanted Twitch:\nSie sind dabei alle \"X\" Buttons auszublenden.\n\nSie können die Sichtbarkeit über das 👁 Augen-Symbol jederzeit wieder umschalten."
+	},
+	"alert_StorageQuota": {
+		"message": "Unwanted Twitch:\nDie Sperrliste ist voll und kann nicht länger über die Cloud synchronisiert werden."
+	},
+	"alert_StorageThrottle": {
+		"message": "Unwanted Twitch:\nDer Synchronisierungsdienst ist derzeit überlastet.\nBitte warten Sie ein paar Minuten, starten den Browser neu und versuchen es dann noch einmal."
+	},
+	"alert_StorageIssue": {
+		"message": "Unwanted Twitch:\nBeim Synchronisierungsdienst ist ein unerwarteter Fehler aufgetreten.\nBitte warten Sie ein paar Minuten, starten den Browser neu und versuchen es dann noch einmal."
+	},
+
+	"popup_ManageBlacklist": {
+		"message": "Sperrliste verwalten"
+	},
+	"popup_EnableExtension": {
+		"message": "Erweiterung aktivieren"
+	},
+	"popup_DisableExtension": {
+		"message": "Erweiterung deaktivieren"
+	},
+	"popup_ToggleButtons": {
+		"message": "zeige \"X\" Buttons"
+	},
+
+	"blacklist_SettingsHeadline": {
+		"message": "Einstellungen"
+	},
+	"blacklist_SettingsHideFollowing": {
+		"message": "Auch auf der \"Du Folgst\" Seite filtern"
+	},
+	"blacklist_SettingsHideReruns": {
+		"message": "Stream-Wiederholungen ausblenden"
+	},
+	"blacklist_SettingsSyncStorage": {
+		"message": "Sperrliste in Cloud synchronisieren"
+	},
+	"blacklist_Categories": {
+		"message": "Ausgeblendete Kategorien"
+	},
+	"blacklist_Channels": {
+		"message": "Ausgeblendete Kanäle"
+	},
+	"blacklist_Tags": {
+		"message": "Ausgeblendete Tags"
+	},
+	"blacklist_Titles": {
+		"message": "Ausgeblendete Titel"
+	},
+	"blacklist_CategoriesInput": {
+		"message": "Name der auszublendenen Kategorie"
+	},
+	"blacklist_ChannelsInput": {
+		"message": "Name des auszublendenen Kanals"
+	},
+	"blacklist_TagsInput": {
+		"message": "Name des auszublendenen Tags"
+	},
+	"blacklist_TitlesInput": {
+		"message": "Muster im auszublendenen Titel"
+	},
+	"blacklist_PatternExplainedLabel": {
+		"message": "Erklärung zu unterstützten Mustern..."
+	},
+	"blacklist_PatternExplainedText": {
+		"message": "The following patterns are supported:\n\nhalf-life 3\n(The term must match exactly, case-insensitive.)\n\n'Half-Life 3'\n(The term must match exactly, case-sensitive.)\n\n~half-life\n(The term must be contained, case-insensitive.)\n\n/^half\\-?life [0-9]+/i\n(The term must match the regular expression, case-insensitive.)\n\n/^Half\\-?Life [0-9]+/\n(The term must match the regular expression, case-sensitive.)"
+	},
+	"blacklist_Empty": {
+		"message": "Noch kein Eintrag vorhanden."
+	},
+	"blacklist_Add": {
+		"message": "Hinzufügen"
+	},
+	"blacklist_Remove": {
+		"message": "Entfernen"
+	},
+	"blacklist_RemoveAll": {
+		"message": "Leeren"
+	},
+	"blacklist_Save": {
+		"message": "Speichern"
+	},
+	"blacklist_Cancel": {
+		"message": "Abbrechen"
+	},
+	"blacklist_Import": {
+		"message": "↳ Importieren"
+	},
+	"blacklist_ImportSuccess": {
+		"message": "Unwanted Twitch:\nDie ausgewählte Datei wurde erfolgreich importiert.\nKlicken Sie auf [Speichern], um den Vorgang abzuschließen."
+	},
+	"blacklist_ImportFailure": {
+		"message": "Unwanted Twitch:\n(Fehler) Die ausgewählte Datei scheint kein gültiger Export zu sein."
+	},
+	"blacklist_Export": {
+		"message": "↱ Exportieren"
+	},
+	"blacklist_Processing": {
+		"message": "Ladevorgang. Bitte warten..."
+	}
+}

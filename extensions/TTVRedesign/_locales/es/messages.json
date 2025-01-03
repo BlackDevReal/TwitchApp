@@ -1,0 +1,122 @@
+﻿{
+	"app_Desc": {
+		"message": "Oculta transmisiones, juegos, categorías, canales y etiquetas no deseados en: twitch.tv"
+	},
+
+	"label_Management": {
+		"message": "Gestionar Lista Negra"
+	},
+	"label_HideCategory": {
+		"message": "Ocultar Categoría"
+	},
+	"label_HideChannel": {
+		"message": "Ocultar Canal"
+	},
+	"label_HideTag": {
+		"message": "Ocultar Etiqueta"
+	},
+	"confirm_HideTag": {
+		"message": "Unwanted Twitch:\nEstás a punto de ocultar todas las categorías y canales\ncon la siguiente etiqueta:"
+	},
+	"confirm_HideButtons": {
+		"message": "Unwanted Twitch:\nYou are about to hide all \"X\" buttons.\n\nYou can toggle the visibility by clicking on the 👁 eye icon again."
+	},
+	"alert_StorageQuota": {
+		"message": "Unwanted Twitch:\nLa lista negra está llena y ya no se puede sincronizar."
+	},
+	"alert_StorageThrottle": {
+		"message": "Unwanted Twitch:\nEl servicio de almacenamiento está ocupado en estos momentos.\nPor favor espera unos minutos, reinicia tu navegador y prueba otra vez."
+	},
+	"alert_StorageIssue": {
+		"message": "Unwanted Twitch:\nEl servicio de almacenamiento encontró un error inesperado.\nPor favor espera unos minutos, reinicia tu navegador y prueba otra vez."
+	},
+
+	"popup_ManageBlacklist": {
+		"message": "Gestionar Lista Negra"
+	},
+	"popup_EnableExtension": {
+		"message": "Habilitar Extensión"
+	},
+	"popup_DisableExtension": {
+		"message": "Deshabilitar Extensión"
+	},
+	"popup_ToggleButtons": {
+		"message": "Mostrar botones \"X\""
+	},
+
+	"blacklist_SettingsHeadline": {
+		"message": "Ajustes"
+	},
+	"blacklist_SettingsHideFollowing": {
+		"message": "Filtrar también en la página \"Siguiendo\""
+	},
+	"blacklist_SettingsHideReruns": {
+		"message": "Ocultar repeticiones de transmisiones"
+	},
+	"blacklist_SettingsSyncStorage": {
+		"message": "Sincronizar la Lista Negra en la Nube"
+	},
+	"blacklist_Categories": {
+		"message": "Categorías en la Lista Negra"
+	},
+	"blacklist_Channels": {
+		"message": "Canales en la Lista Negra"
+	},
+	"blacklist_Tags": {
+		"message": "Etiquetas en la Lista Negra"
+	},
+	"blacklist_Titles": {
+		"message": "Títulos en la Lista Negra"
+	},
+	"blacklist_CategoriesInput": {
+		"message": "Nombre de la Categoría"
+	},
+	"blacklist_ChannelsInput": {
+		"message": "Nombre del Canal"
+	},
+	"blacklist_TagsInput": {
+		"message": "Nombre de la Etiqueta"
+	},
+	"blacklist_TitlesInput": {
+		"message": "Patrón en el título"
+	},
+	"blacklist_PatternExplainedLabel": {
+		"message": "Explicación sobre los patrones soportados..."
+	},
+	"blacklist_PatternExplainedText": {
+		"message": "The following patterns are supported:\n\nhalf-life 3\n(The term must match exactly, case-insensitive.)\n\n'Half-Life 3'\n(The term must match exactly, case-sensitive.)\n\n~half-life\n(The term must be contained, case-insensitive.)\n\n/^half\\-?life [0-9]+/i\n(The term must match the regular expression, case-insensitive.)\n\n/^Half\\-?Life [0-9]+/\n(The term must match the regular expression, case-sensitive.)"
+	},
+	"blacklist_Empty": {
+		"message": "No hay nada en la lista negra aún."
+	},
+	"blacklist_Add": {
+		"message": "Añadir"
+	},
+	"blacklist_Remove": {
+		"message": "Eliminar"
+	},
+	"blacklist_RemoveAll": {
+		"message": "Borrar"
+	},
+	"blacklist_Save": {
+		"message": "Guardar"
+	},
+	"blacklist_Cancel": {
+		"message": "Cancelar"
+	},
+	"blacklist_Import": {
+		"message": "↳ Importar"
+	},
+	"blacklist_ImportSuccess": {
+		"message": "Unwanted Twitch:\nEl fichero seleccionado se ha importado correctamente.\nPulsa en el botón [Guardar] para finalizar la importación."
+	},
+	"blacklist_ImportFailure": {
+		"message": "Unwanted Twitch:\n(Error) El archivo seleccionado no es una lista negra válida."
+	},
+	"blacklist_Export": {
+		"message": "↱ Exportar"
+	},
+	"blacklist_Processing": {
+		"message": "Cargando. Espera por favor..."
+	}
+}

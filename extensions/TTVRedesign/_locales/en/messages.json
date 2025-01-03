@@ -1,0 +1,122 @@
+﻿{
+	"app_Desc": {
+		"message": "Hide unwanted streams, games, categories, channels and tags on: twitch.tv"
+	},
+
+	"label_Management": {
+		"message": "Manage Blacklist"
+	},
+	"label_HideCategory": {
+		"message": "Hide Category"
+	},
+	"label_HideChannel": {
+		"message": "Hide Channel"
+	},
+	"label_HideTag": {
+		"message": "Hide Tag"
+	},
+	"confirm_HideTag": {
+		"message": "Unwanted Twitch:\nYou are about to hide all categories and channels\nwith the following tag:"
+	},
+	"confirm_HideButtons": {
+		"message": "Unwanted Twitch:\nYou are about to hide all \"X\" buttons.\n\nYou can toggle the visibility by clicking on the 👁 eye icon again."
+	},
+	"alert_StorageQuota": {
+		"message": "Unwanted Twitch:\nThe blacklist is full and can no longer be synchronized."
+	},
+	"alert_StorageThrottle": {
+		"message": "Unwanted Twitch:\nThe storage service is currently busy.\nPlease wait a few minutes, restart your browser and try again."
+	},
+	"alert_StorageIssue": {
+		"message": "Unwanted Twitch:\nThe storage service encountered an unexpected error.\nPlease wait a few minutes, restart your browser and try again."
+	},
+
+	"popup_ManageBlacklist": {
+		"message": "Manage Blacklist"
+	},
+	"popup_EnableExtension": {
+		"message": "Enable Extension"
+	},
+	"popup_DisableExtension": {
+		"message": "Disable Extension"
+	},
+	"popup_ToggleButtons": {
+		"message": "Show \"X\" Buttons"
+	},
+
+	"blacklist_SettingsHeadline": {
+		"message": "Settings"
+	},
+	"blacklist_SettingsHideFollowing": {
+		"message": "Also filter on the \"Following\" Page"
+	},
+	"blacklist_SettingsHideReruns": {
+		"message": "Hide Stream Reruns"
+	},
+	"blacklist_SettingsSyncStorage": {
+		"message": "Synchronize Blacklist via Cloud"
+	},
+	"blacklist_Categories": {
+		"message": "Blacklisted Categories"
+	},
+	"blacklist_Channels": {
+		"message": "Blacklisted Channels"
+	},
+	"blacklist_Tags": {
+		"message": "Blacklisted Tags"
+	},
+	"blacklist_Titles": {
+		"message": "Blacklisted Titles"
+	},
+	"blacklist_CategoriesInput": {
+		"message": "Name of Category to blacklist"
+	},
+	"blacklist_ChannelsInput": {
+		"message": "Name of Channel to blacklist"
+	},
+	"blacklist_TagsInput": {
+		"message": "Name of Tag to blacklist"
+	},
+	"blacklist_TitlesInput": {
+		"message": "Pattern in Title to blacklist"
+	},
+	"blacklist_PatternExplainedLabel": {
+		"message": "Supported patterns explained..."
+	},
+	"blacklist_PatternExplainedText": {
+		"message": "The following patterns are supported:\n\nhalf-life 3\n(The term must match exactly, case-insensitive.)\n\n'Half-Life 3'\n(The term must match exactly, case-sensitive.)\n\n~half-life\n(The term must be contained, case-insensitive.)\n\n/^half\\-?life [0-9]+/i\n(The term must match the regular expression, case-insensitive.)\n\n/^Half\\-?Life [0-9]+/\n(The term must match the regular expression, case-sensitive.)"
+	},
+	"blacklist_Empty": {
+		"message": "Nothing blacklisted yet."
+	},
+	"blacklist_Add": {
+		"message": "Add"
+	},
+	"blacklist_Remove": {
+		"message": "Remove"
+	},
+	"blacklist_RemoveAll": {
+		"message": "Clear"
+	},
+	"blacklist_Save": {
+		"message": "Save"
+	},
+	"blacklist_Cancel": {
+		"message": "Cancel"
+	},
+	"blacklist_Import": {
+		"message": "↳ Import"
+	},
+	"blacklist_ImportSuccess": {
+		"message": "Unwanted Twitch:\nThe selected file was successfully imported.\nClick the [Save] button to finish the import."
+	},
+	"blacklist_ImportFailure": {
+		"message": "Unwanted Twitch:\n(Error) The selected file does not seem to be a valid blacklist export."
+	},
+	"blacklist_Export": {
+		"message": "↱ Export"
+	},
+	"blacklist_Processing": {
+		"message": "Loading. Please wait..."
+	}
+}
